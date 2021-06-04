@@ -1,4 +1,6 @@
-# the vinyl exchange
+# The Vinyl Exchange
+
+thevinylexchange.netlify.app
 
 # Overview
 
